@@ -23,9 +23,9 @@ function listChallenges() {
             </div>
 
             <div>
-              <Link href={'/desafio1'}>
+              <Link href={'/desafio3'}>
               <button className='w-full mb-4 text-[18px] mt-6 rounded-full bg-white text-emerald-800 hover:bg-emerald-600 hover:text-white py-2 transition-colors duration-300 font-semibold'>
-                Desafio 1
+                Desafio 3
               </button>
               </Link>
             </div>

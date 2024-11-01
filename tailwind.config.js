@@ -11,6 +11,8 @@ module.exports = {
         "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
         "gradient-conic":
           "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
+          "dev3" : "url('/imgs/img3/image-header-mobile.jpg')",
+          "dev3Pc" : "url('/imgs/img3/image-header-desktop.jpg')"
       },
       colors:{
         'Blue': 'hsl(246, 80%, 60%)',
@@ -29,7 +31,11 @@ module.exports = {
         'OffWhite': 'hsl(36, 100%, 99%)',
         'GrayishBlue': 'hsl(233, 8%, 79%)',
         'DarkGrayishBlue': 'hsl(236, 13%, 42%)',
-        'VeryDarkBlue': 'hsl(240, 100%, 5%)'
+        'VeryDarkBlue': 'hsl(240, 100%, 5%)',
+
+        'Layer': 'rgba(72, 6, 112, 0.7)',
+        'SlightlyTransparentS': 'hsla(0, 0%, 100%, 0.6)',
+        'SlightlyTransparentP': 'hsla(0, 0%, 100%, 0.75)',
     }
     },
   },
